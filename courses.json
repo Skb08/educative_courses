@@ -318,5 +318,35 @@
      "difficulty" : "intermediate",
      "module_number" : 7,
      "certification" : "paid"
+    },
+    {
+    "id" :  34,
+    "platform" : "educative",
+    "free_course" : "no",
+    "course_name" : "Deno Web Development",
+    "link" : "https://www.educative.io/courses/deno-web-development",
+    "difficulty" : "beginner",
+    "module_number" : 11,
+    "certification" : "paid"
+    },
+    {
+    "id" :  35,
+    "platform" : "educative",
+    "free_course" : "no",
+    "course_name" : "Building Web Applications with Blazor",
+    "link" : "https://www.educative.io/courses/building-web-applications-with-blazor",
+    "difficulty" : "beginner",
+    "module_number" : 10,
+    "certification" : "paid"
+    },
+    {
+    "id" :  36,
+    "platform" : "educative",
+    "free_course" : "no",
+    "course_name" : "Developing Web Applications with PHP",
+    "link" : "https://www.educative.io/courses/building-web-applications-with-blazor",
+    "difficulty" : "intermediate",
+    "module_number" : 9,
+    "certification" : "paid"
     }
 ]
